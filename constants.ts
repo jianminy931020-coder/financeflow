@@ -1,4 +1,3 @@
-
 import { Transaction, Asset, CategoryId } from './types';
 
 export const CATEGORIES: Record<CategoryId, { name: string; icon: string; color: string; bgColor: string }> = {
